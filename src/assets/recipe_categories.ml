@@ -1,0 +1,13 @@
+Breakfast recipes
+Lunch recipes
+Dinner recipes
+Appetizer recipes
+Salad recipes
+Main-course recipes
+Side-dish recipes
+Baked-goods recipes
+Dessert recipes
+Snack recipes
+Soup recipes
+Holiday recipes
+Vegetarian Dishes
